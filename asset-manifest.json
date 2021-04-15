@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://aimanalii.github.io/csb-eewvr/static/css/main.cadc69c6.chunk.css",
+    "main.js": "https://aimanalii.github.io/csb-eewvr/static/js/main.f8f5f808.chunk.js",
+    "main.js.map": "https://aimanalii.github.io/csb-eewvr/static/js/main.f8f5f808.chunk.js.map",
+    "runtime-main.js": "https://aimanalii.github.io/csb-eewvr/static/js/runtime-main.80318124.js",
+    "runtime-main.js.map": "https://aimanalii.github.io/csb-eewvr/static/js/runtime-main.80318124.js.map",
+    "static/js/2.77c31287.chunk.js": "https://aimanalii.github.io/csb-eewvr/static/js/2.77c31287.chunk.js",
+    "static/js/2.77c31287.chunk.js.map": "https://aimanalii.github.io/csb-eewvr/static/js/2.77c31287.chunk.js.map",
+    "index.html": "https://aimanalii.github.io/csb-eewvr/index.html",
+    "static/css/main.cadc69c6.chunk.css.map": "https://aimanalii.github.io/csb-eewvr/static/css/main.cadc69c6.chunk.css.map",
+    "static/js/2.77c31287.chunk.js.LICENSE.txt": "https://aimanalii.github.io/csb-eewvr/static/js/2.77c31287.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80318124.js",
+    "static/js/2.77c31287.chunk.js",
+    "static/css/main.cadc69c6.chunk.css",
+    "static/js/main.f8f5f808.chunk.js"
+  ]
+}
